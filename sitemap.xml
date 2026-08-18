@@ -53,6 +53,14 @@
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
+         <loc>https://example.com/gui/map/</loc>
+         <lastmod>2026-08-18</lastmod>
+    </url>
+    <url>
+         <loc>https://example.com/gui/video/</loc>
+         <lastmod>2026-08-18</lastmod>
+    </url>
+    <url>
          <loc>https://example.com/hardware/canbus/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
