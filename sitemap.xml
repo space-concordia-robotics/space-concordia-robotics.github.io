@@ -2,146 +2,146 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://example.com/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/autonomy/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/autonomy/ekf/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/autonomy/nav2/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/general/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/general/code-standards/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/general/ide-setup/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/general/launch-files/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/general/running/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/general/debugging/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/general/debugging/cpp/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/general/debugging/python/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/gui/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/hardware/canbus/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/hardware/hardware-interfaces/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/hardware/urdf/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/hardware/spark/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/hardware/spark/test/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/intro/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/intro/intro-task/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/intro/onboarding/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/misc/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/misc/block-devices/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/misc/gstreamer/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/misc/jetson-maintenance/backup-process/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/misc/jetson-maintenance/periodic-maintenance/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/resources/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/resources/colcon/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/resources/git/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/resources/ros/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/resources/advanced/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/resources/advanced/nix/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/resources/linux/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/resources/linux/bash/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/resources/linux/commands/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
     <url>
          <loc>https://example.com/resources/linux/installing/</loc>
-         <lastmod>2026-08-17</lastmod>
+         <lastmod>2026-08-18</lastmod>
     </url>
 </urlset>
