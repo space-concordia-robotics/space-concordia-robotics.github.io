@@ -1,155 +1,155 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://example.com/</loc>
+         <loc>https://space-concordia-robotics.github.io/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/autonomy/</loc>
+         <loc>https://space-concordia-robotics.github.io/autonomy/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/autonomy/ekf/</loc>
+         <loc>https://space-concordia-robotics.github.io/autonomy/ekf/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/autonomy/nav2/</loc>
+         <loc>https://space-concordia-robotics.github.io/autonomy/nav2/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/general/</loc>
+         <loc>https://space-concordia-robotics.github.io/general/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/general/code-standards/</loc>
+         <loc>https://space-concordia-robotics.github.io/general/code-standards/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/general/ide-setup/</loc>
+         <loc>https://space-concordia-robotics.github.io/general/ide-setup/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/general/launch-files/</loc>
+         <loc>https://space-concordia-robotics.github.io/general/launch-files/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/general/running/</loc>
+         <loc>https://space-concordia-robotics.github.io/general/running/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/general/debugging/</loc>
+         <loc>https://space-concordia-robotics.github.io/general/debugging/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/general/debugging/cpp/</loc>
+         <loc>https://space-concordia-robotics.github.io/general/debugging/cpp/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/general/debugging/python/</loc>
+         <loc>https://space-concordia-robotics.github.io/general/debugging/python/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/gui/</loc>
+         <loc>https://space-concordia-robotics.github.io/gui/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/gui/map/</loc>
+         <loc>https://space-concordia-robotics.github.io/gui/map/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/gui/video/</loc>
+         <loc>https://space-concordia-robotics.github.io/gui/video/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/hardware/canbus/</loc>
+         <loc>https://space-concordia-robotics.github.io/hardware/canbus/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/hardware/hardware-interfaces/</loc>
+         <loc>https://space-concordia-robotics.github.io/hardware/hardware-interfaces/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/hardware/urdf/</loc>
+         <loc>https://space-concordia-robotics.github.io/hardware/urdf/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/hardware/spark/</loc>
+         <loc>https://space-concordia-robotics.github.io/hardware/spark/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/hardware/spark/test/</loc>
+         <loc>https://space-concordia-robotics.github.io/hardware/spark/test/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/intro/</loc>
+         <loc>https://space-concordia-robotics.github.io/intro/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/intro/intro-task/</loc>
+         <loc>https://space-concordia-robotics.github.io/intro/intro-task/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/intro/onboarding/</loc>
+         <loc>https://space-concordia-robotics.github.io/intro/onboarding/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/misc/</loc>
+         <loc>https://space-concordia-robotics.github.io/misc/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/misc/block-devices/</loc>
+         <loc>https://space-concordia-robotics.github.io/misc/block-devices/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/misc/gstreamer/</loc>
+         <loc>https://space-concordia-robotics.github.io/misc/gstreamer/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/misc/jetson-maintenance/backup-process/</loc>
+         <loc>https://space-concordia-robotics.github.io/misc/jetson-maintenance/backup-process/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/misc/jetson-maintenance/periodic-maintenance/</loc>
+         <loc>https://space-concordia-robotics.github.io/misc/jetson-maintenance/periodic-maintenance/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/resources/</loc>
+         <loc>https://space-concordia-robotics.github.io/resources/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/resources/colcon/</loc>
+         <loc>https://space-concordia-robotics.github.io/resources/colcon/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/resources/git/</loc>
+         <loc>https://space-concordia-robotics.github.io/resources/git/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/resources/ros/</loc>
+         <loc>https://space-concordia-robotics.github.io/resources/ros/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/resources/advanced/</loc>
+         <loc>https://space-concordia-robotics.github.io/resources/advanced/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/resources/advanced/nix/</loc>
+         <loc>https://space-concordia-robotics.github.io/resources/advanced/nix/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/resources/linux/</loc>
+         <loc>https://space-concordia-robotics.github.io/resources/linux/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/resources/linux/bash/</loc>
+         <loc>https://space-concordia-robotics.github.io/resources/linux/bash/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/resources/linux/commands/</loc>
+         <loc>https://space-concordia-robotics.github.io/resources/linux/commands/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
     <url>
-         <loc>https://example.com/resources/linux/installing/</loc>
+         <loc>https://space-concordia-robotics.github.io/resources/linux/installing/</loc>
          <lastmod>2026-08-18</lastmod>
     </url>
 </urlset>
