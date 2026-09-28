@@ -2,154 +2,162 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://space-concordia-robotics.github.io/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/autonomy/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/autonomy/ekf/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/autonomy/nav2/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/general/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/general/code-standards/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/general/ide-setup/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/general/launch-files/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/general/running/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/general/debugging/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/general/debugging/cpp/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/general/debugging/python/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/gui/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/gui/map/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/gui/video/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/hardware/canbus/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/hardware/hardware-interfaces/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/hardware/urdf/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/hardware/spark/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/hardware/spark/test/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/intro/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/intro/intro-task/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/intro/onboarding/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/misc/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/misc/block-devices/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/misc/gstreamer/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/misc/jetson-maintenance/backup-process/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/misc/jetson-maintenance/periodic-maintenance/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
+    </url>
+    <url>
+         <loc>https://space-concordia-robotics.github.io/misc/jetson-maintenance/setup/</loc>
+         <lastmod>2026-09-28</lastmod>
+    </url>
+    <url>
+         <loc>https://space-concordia-robotics.github.io/misc/jetson-maintenance/usb-device-mode/</loc>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/resources/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/resources/colcon/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/resources/git/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/resources/ros/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/resources/advanced/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/resources/advanced/nix/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/resources/linux/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/resources/linux/bash/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/resources/linux/commands/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
     <url>
          <loc>https://space-concordia-robotics.github.io/resources/linux/installing/</loc>
-         <lastmod>2026-08-18</lastmod>
+         <lastmod>2026-09-28</lastmod>
     </url>
 </urlset>
